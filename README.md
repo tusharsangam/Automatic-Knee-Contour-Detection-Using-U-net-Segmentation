@@ -14,8 +14,8 @@ I first tried to solve this problem using landmark detection but I soon realised
 I tried many different architectures such as Dilated Residual U-net, Stack U-net 
 
 ## References
-[Landmark Detection](https://www.mdpi.com/2076-3417/10/7/2547/htm)
-[Landmark Detection 2](https://www.sciencedirect.com/science/article/pii/S1361841518305784)
-[Christian Payer et al. Github](https://github.com/christianpayer)
-[2D Dilated Residual U-net](https://arxiv.org/abs/1905.07710)
-[Stack U-net](https://arxiv.org/abs/1804.11294)
+[Heatmap Regression 2016](https://link.springer.com/chapter/10.1007/978-3-319-46723-8_27)<br>
+[Heatmap Regression 2019](https://www.sciencedirect.com/science/article/pii/S1361841518305784)<br>
+[Christian Payer et al. Github](https://github.com/christianpayer)<br>
+[2D Dilated Residual U-net](https://arxiv.org/abs/1905.07710)<br>
+[Stack U-net](https://arxiv.org/abs/1804.11294)<br>
