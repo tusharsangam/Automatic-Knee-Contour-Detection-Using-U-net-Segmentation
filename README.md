@@ -3,7 +3,6 @@ U-net based Bio Medical Image Segmentation approach for Knee X-rays to automate 
 When working at [AlgoSurg](https://www.linkedin.com/company/algosurg/) I came across this interesting problem of automating contour extraction of knee-bones, these contours help drive surgeon's decision about the surgery, manually annotating takes lot of efforts and time for a fairly repeatitive task thus neural networks come to rescue
 
 My solution is based on main U-net architecture but there are some fine changes that I implemented by getting insprired from the papers mentioned in references
-
 	1. I have used same filters model thus keeping filters=128 throughout the U-net
 	2. I have used Average Pooling instead of maxpooling
 
