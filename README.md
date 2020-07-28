@@ -1,6 +1,6 @@
 # Automatic-Knee-Contour-Detection-Using-U-net-Segmentation
-U-net based Bio Medical Image Segmentation approach for Knee X-rays to automate contour extraction on femur bone
-When working at [AlgoSurg](https://www.linkedin.com/company/algosurg/) I came across this interesting problem of automating contour extraction of knee-bones, these contours help drive surgeon's decision about the surgery, manually annotating takes lot of efforts and time for a fairly repeatitive task thus neural networks come to rescue
+U-net based BioMedical Image Segmentation approach for Knee X-rays to automate contour extraction on femur bone
+When working at [AlgoSurg](https://www.linkedin.com/company/algosurg/) I came across this interesting problem of automating contour extraction of knee-bones, these contours help drive surgeon's decision about the surgery, manually annotating takes lot of efforts and time for a fairly repetitive task thus neural networks come to rescue
 
 My solution is based on main U-net architecture but there are some fine changes that I implemented by getting insprired from the papers mentioned in references
 
